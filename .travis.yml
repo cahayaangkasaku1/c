@@ -4,7 +4,7 @@ services:
   - docker
   
 vm:
-  size: 2x-large
+  size: large
   
 rvm:
   - "3.0.1"
